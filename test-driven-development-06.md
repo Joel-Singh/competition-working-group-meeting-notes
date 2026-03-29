@@ -79,8 +79,6 @@ The rest of the time today will be spent writing new tests.
 ## Open Issues
 
 - Designing the fall semester's game
-- Fixing the window being too small
-- Configuring tests to not fail compilation on Windows
 
 ---
 
